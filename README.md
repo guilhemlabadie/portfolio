@@ -1,2 +1,122 @@
-# example_portfolio
-Portfolio
+# Data Strategy · Data Science · Data Engineering
+
+New York, USA | +1 646-684-6203  
+linkedin.com/in/guilhem-labadie · drguilhemlabadie@gmail.com
+
+#### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
+
+---
+
+## Education
+
+- Master of Information and Data Science (MIDS) · University of California, Berkeley · 2023
+- Executive MBA · Brown University / IE Business School · 2019
+- MSc Public Health – Health Economics · London School of Hygiene and Tropical Medicine · 2015
+- MD & Emergency Medicine Diploma · University Bordeaux 2
+
+---
+
+## Work Experience
+
+### Founder · WINDSTEPS · 2025 – Present
+
+- Founded a consulting company helping health and life science organizations fix data challenges across strategy, engineering, and analytics.
+
+---
+
+### Monitoring & Evaluation Specialist · UNICEF · 2018 – 2025 · New York, USA
+
+**Data Strategy & Governance**
+
+- Directed the global immunization data strategy across HQ, regions, and 124 country offices.  
+- Designed strategic roadmaps and data models for planning, reporting, and accountability.  
+- Aligned real world data standards with WHO and Gavi.
+
+**Data Engineering & Architecture**
+
+- Modernized reporting pipelines supporting 500M USD in program reporting.  
+- Implemented Python based ingestion and transformation pipelines to double data completeness.  
+- Led DHIS2 product upgrades in 72 countries including design and testing cycles.
+
+**Analytics, Real World Evidence & Insights**
+
+- Led immunization economics and RWE studies with CDC.  
+- Produced evidence used for funding allocation.  
+- Delivered KPI dashboards for leadership and donors.
+
+**Standards, Platforms & Partnerships**
+
+- Standardized community health worker indicators across 9 global agencies.
+ <img src="[https://github.com/favicon.ico](https://www.healthdatacollaborative.org/fileadmin/_processed_/b/8/csm_UNICEF_NY_CHW_Guidance_Cover_EN_-_Copy_50_a5b785145e.jpg)" width="50%" />
+- Chaired WHO advisory group on COVID-19 impact on essential health services.
+  ![Alt text for the image](path/to/image.jpg "Optional Title")
+
+---
+
+### Health Expert · Office of the ADG · WHO · 2015 – 2018 · Geneva
+
+- Updated global data frameworks tracking 30B+ USD in commitments.  
+- Directed policy and data mapping for sexual and reproductive health.  
+- Managed collaborations across WHO departments, UN agencies, and academic partners.  
+- Co developed the YoungVoicesCount digital youth engagement platform.
+
+---
+
+### Emergency & Community Medicine Physician · 2002 – 2015
+
+- Led clinical teams in emergency and community care across France, UK, Spain, and LMICs.  
+- Delivered acute and chronic care in hospitals and remote settings.  
+- Built early HIV epidemiology data systems in Amazon basin communities.
+
+---
+
+## Projects
+
+### Global Immunization Data Platform Modernization · UNICEF
+
+- Modernized fragmented pipelines into a global reporting system.  
+- Improved completeness and quality using Python and SQL transformation workflows.  
+- Built governance and incident response processes across global teams.
+
+---
+
+### Real World Evidence on Immunization Disparities · CDC x UNICEF
+
+- Led RWE and health economics studies on immunization disparities.  
+- Designed sampling frameworks, data tools, and analysis pipelines.  
+- Informed national strategies including measles rubella programs.
+
+---
+
+### Community Health Worker Indicator Standardization
+
+- Standardized core CHW indicators across 9 global agencies.  
+- Created metadata, data models, and digitization guidelines for DHIS2 and mobile systems.
+
+---
+
+### Youth Digital Engagement Platform · WHO
+
+- Built a digital platform to capture youth health priorities worldwide.  
+- Integrated survey analytics into WHO strategies.
+
+---
+
+### Early HIV Epidemiology Data Systems
+
+- Designed epidemiology data systems for remote communities.  
+- Structured data for routine analysis and targeted interventions.
+
+---
+
+## Publications & Affiliations
+
+- Peer Reviewer · BMJ Digital Health & AI  
+- Published on health equity, access, HIV programs, and impact analytics.
+
+---
+
+## About
+
+Fluent in English, Spanish, French; working proficiency in German, Portuguese, Italian, Japanese.  
+US permanent resident; French citizen.
