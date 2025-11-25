@@ -1,6 +1,6 @@
 # Data Strategy · Data Science · Data Engineering
 
-New York, USA | +1 646-684-6203  
+New York, USA  
 [Linkedin](linkedin.com/in/guilhem-labadie) · drguilhemlabadie@gmail.com · [Google Scholar Profile](https://scholar.google.com/citations?user=1KHhBdwAAAAJ&hl=en) · [Peer review]( https://orcid.org/0000-0002-4092-0923)
 
 #### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
