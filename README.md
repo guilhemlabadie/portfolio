@@ -6,7 +6,16 @@ New York, USA | +1 646-684-6203
 #### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
 
 ---
+#### Portfolio Notebooks
+* [MIMIC-IV_Clinical_Database_Data_Exploration](https://github.com/user/repo/blob/branch/other_file.md): Data exploration of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database, comprised of deidentified electronic health records 
+* 2.MIMIC-IV_Clinical_Database_Causal_Inference: review of illustrative examples of causal inference:
+ * Linear regression
+ * Linear regression assumptions tests + Cook's distance
+ * Generalized Linear Model
+ * Matching
+ * Propensity score matching (PSM) 
 
+---
 ## Education
 
 - Master of Information and Data Science (MIDS) · University of California, Berkeley · 2023
