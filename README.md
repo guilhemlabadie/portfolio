@@ -11,12 +11,13 @@ New York, USA | +1 646-684-6203
     * Data exploration of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database, comprised of deidentified electronic health records 
     * Jupyter Notebook: Python Panda Matplotlib Seaborn
 * [2.MIMIC-IV_Clinical_Database_Causal_Inference](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
-     * Review of illustrative examples of causal inference (Jupyter Notebook: Python Panda Statsmodels Sklearn Scipy)
-     * Linear regression
-     * Linear regression assumptions tests + Cook's distance
-     * Generalized Linear Model
-     * Matching
-     * Propensity score matching (PSM) 
+     * Review of illustrative examples of causal inference 
+         * Linear regression
+         * Linear regression assumptions tests + Cook's distance
+         * Generalized Linear Model
+         * Matching
+         * Propensity score matching (PSM)
+     * Jupyter Notebook: Python Panda Statsmodels Sklearn Scipy
 
 ---
 ## Education
