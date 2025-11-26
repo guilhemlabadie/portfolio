@@ -9,7 +9,7 @@ New York, USA
 #### Portfolio Notebooks
 * [MIMIC-IV_Clinical_Database_Data_Exploration](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb):
     * Data exploration of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database, comprised of deidentified electronic health records 
-    * Jupyter Notebook: Python Panda Matplotlib Seaborn
+    * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
 * [2.MIMIC-IV_Clinical_Database_Causal_Inference](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
          * Linear regression
@@ -17,10 +17,10 @@ New York, USA
          * Generalized Linear Model
          * Matching
          * Propensity score matching (PSM)
-     * Jupyter Notebook: Python Panda Statsmodels Sklearn Scipy
+     * Jupyter Notebook: **Python Panda Statsmodels Sklearn Scipy**
 * [Principal Component Analysis (PCA) applied to the Breast Cancer Wisconsin Diagnostic datasets](Principal_Component_Analysis.ipynb)
     * Features standardization, PCA, interpretation (malignant / benign)
-    * Jupyter Notebook: Python Panda Sklearn 
+    * Jupyter Notebook: **Python Panda Sklearn** 
 ---
 ## Education
 
