@@ -8,31 +8,32 @@ New York, USA
 ---
 #### Portfolio Notebooks
 * [1.MIMIC-IV_Clinical_Database_Data_Exploration](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb):
-    * Data exploration of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database, comprised of deidentified electronic health records 
+    * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
       
 * [2.MIMIC-IV_Clinical_Database_Causal_Inference](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
-         * Linear regression
-         * Linear regression assumptions tests + Cook's distance
-         * Generalized Linear Model
-         * Matching
-         * Propensity score matching (PSM)
+         * **Linear regression**
+         * Linear regression **assumptions tests + Cook's distance**
+         * **Generalized Linear Model**
+         * **Matching**
+         * **Propensity score matching (PSM)**
      * Jupyter Notebook: **Python Panda Statsmodels Sklearn Scipy**
        
  * [3.MIMIC-IV_Clinical_Database_Data_Exploration using SQL](3.MIMIC-IV_SQL.ipynb):
      * Jupyter Notebook: SQLite
      * SQL: **SELECT, filtering, text filtering, sorting, aggregation, DISTINCT, GROUP BY, CASE, CTE, SELF JOIN, subqueries, Window function**
        
-* [Principal Component Analysis (PCA) applied to the Breast Cancer Wisconsin Diagnostic datasets](Principal_Component_Analysis.ipynb)
-    * Features standardization, PCA, interpretation (malignant / benign)
-    * Jupyter Notebook: **Python Panda Sklearn**
+* [Breast Cancer Wisconsin Diagnostic dataset](Breast%20Cancer%20Diagnostic%20Features.ipynb)
+    * **Principal Component Analysis (PCA)**: Features standardization, PCA, interpretation (malignant / benign)
+    * **Bayesian Optimization** for Hyperparameter Tuning in Clinical Risk Prediction: AUC, Accuracy, F1
+    * Jupyter Notebook: **Python Panda Sklearn Skopt**
  
 * [AIDS clinical trial](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)
-    * A/B testing: sample size, logistic regression and assumptions testing
-    * A/B/n testing including sampling (4 arms)
-    * Multiarmed Bandits and ε greedy policy (4 arms)
-    * Thompson Bootstrap Sampling (4 arms)
+    * **A/B testing**: sample size, logistic regression and assumptions testing
+    * **A/B/n testing** including sampling (4 arms)
+    * **Multiarmed Bandits** and ε greedy policy (4 arms)
+    * **Thompson Bootstrap Sampling** (4 arms)
     * Jupyter Notebook: **Python Panda Statsmodels Scipy** 
 ---
 ## Education
