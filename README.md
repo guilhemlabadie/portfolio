@@ -45,7 +45,7 @@ New York, USA
     * **Deep Neural Network** single / multi-step
     * **Long short-term memory (LSTM)** single / multi-step
     * **Convolutional Neural Network (CNN)** single / multi-step / autoregressive
-    * **LSTH + CNN**: single / multi-step
+    * **LSTM + CNN**: single / multi-step
     * **Prophet**: long term / rolling
     * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet** 
 ---
