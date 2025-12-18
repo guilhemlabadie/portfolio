@@ -40,7 +40,14 @@ New York, USA
     * **SARIMA** 
     * **SARIMAX** 
     * **VAR(p)**: Granger Causality test
-    * Jupyter Notebook: **Python Panda Sklearn Statsmodels Math Seaborn** 
+    * Jupyter Notebook: **Python Panda Sklearn Statsmodels Math Seaborn**
+  * [Pharma sales Time Series Forecasting using Deep Learning](Timeseries2.ipynb)
+    * **Deep Neural Network** single / multi-step
+    * **Long short-term memory (LSTM)** single / multi-step
+    * **Convolutional Neural Network (CNN)** single / multi-step / autoregressive
+    * **LSTH + CNN**: single / multi-step
+    * **Prophet**: long term / rolling
+    * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet** 
 ---
 ## Education
 
