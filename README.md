@@ -158,7 +158,7 @@ New York, USA
 
 - Peer Reviewer · BMJ Digital Health & AI  
 - Published on health equity, access, HIV programs, and impact analytics.
-   * [Alexander K Rowe, Guilhem Labadie, Debra Jackson, Claudia Vivas-Torrealba, Jonathon Simon. Improving health worker performance: an ongoing challenge for meeting the sustainable development goals. Bmj, 2018](https://www.bmj.com/content/362/bmj.k2813)
+   * Alexander K Rowe, Guilhem Labadie, Debra Jackson, Claudia Vivas-Torrealba, Jonathon Simon. Improving health worker performance: an ongoing challenge for meeting the sustainable development goals. Bmj, 2018[paper](https://www.bmj.com/content/362/bmj.k2813)
    * [Future directions for reducing inequity and maximising impact of child health strategies. Sarah L Dalglish, Joanna J Vogel, Geneviève Begkoyian, Luis Huicho, Elizabeth Mason, Elisabeth Dowling Root, Joanna Schellenberg, Abiy Seifu Estifanos, Rajani Ved, Fernando C Wehrmeister, Guilhem Labadie, Cesar G Victora. BMJ 2018](https://pubmed.ncbi.nlm.nih.gov/30061111/)
    * [Boschi-Pinto C, Labadie G, Dilip TR, et al. Global implementation survey of Integrated Management of Childhood Illness (IMCI): 20 years on. BMJ Open 2018;8:e019079. doi:10.1136/bmjopen-2017-019079](https://bmjopen.bmj.com/content/8/7/e019079)
    * [Mathieu Nacher, V Vantilcke, MC Parriault, A Van Melle, M Hanf, G Labadie, M Romeo, L Adriouch, G Carles, P Couppié. What is driving the HIV epidemic in French Guiana? International journal of STD & AIDS. 2010](https://pubmed.ncbi.nlm.nih.gov/20498108/)
