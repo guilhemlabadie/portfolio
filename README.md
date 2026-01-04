@@ -173,6 +173,6 @@ Publication date: 2017 [link](https://www.who.int/publications/i/item/9789241512
 
 ## :pushpin: About
 
-- Fluent: 🇬🇧: English :es: Spanish :fr: French :de: German. 
+- Fluent in 🇬🇧: English :es: Spanish :fr: French :de: German. 
 - Intermediate in 🇧🇷 Portuguese :it: Italian :jp: Japanese.  
-- US permanent resident; French citizen.
+- :us: US permanent resident; :eu: French citizen.
