@@ -52,7 +52,7 @@ New York, USA
     * **Prophet**: long term / rolling
     * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet**
 
- * **UCI Heart Disease (Cleveland) dataset: binary outcome ML classifier **: [notebook](Classification.ipynb)
+ * **UCI Heart Disease (Cleveland) dataset: binary outcome Machine Learning classifier**: [notebook](Classification.ipynb)
     * **Logistic regression** ROC curve, confusion matrix, precision, recall, f1, learning curve, batch vs stochastic gradient descent, l1 /l2 penalty
     * **Random Forest, AdaBoost, XGBoost** Learning curves, Feature importance / Mean Decrease in Impurity, Bootstrapping, K-fold CV, Randomized vs Grid search
     * **Neural network: Multilayer Perceptron (MLP)** ROC curve, training loss curve, learning curve, explainability SHAP / LIME
