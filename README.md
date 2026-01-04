@@ -1,6 +1,6 @@
 ### :book: Portfolio Notebooks
     
-* **Causal Inference using MIMIC-IV Clinical Database**: [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
+* **Causal Inference**: [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
          * **Linear regression**
          * Linear regression **assumptions tests + Cook's distance**
@@ -8,14 +8,17 @@
          * **Matching**
          * **Propensity score matching (PSM)**
      * Jupyter Notebook: **Python Panda Statsmodels Sklearn Scipy**
+     * Database: MIMIC-IV
 
- * **Data Exploration of MIMIC-IV Clinical Database**: [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
+ * **Data Exploration**: [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
     * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
+    * Database: MIMIC-IV
             
- * **SQL Data exploration using MIMIC-IV Clinical Database**: [notebook](3.MIMIC-IV_SQL.ipynb)
+ * **SQL Data exploration**: [notebook](3.MIMIC-IV_SQL.ipynb)
      * Jupyter Notebook: SQLite
      * SQL: **SELECT, filtering, text filtering, sorting, aggregation, DISTINCT, GROUP BY, CASE, CTE, SELF JOIN, subqueries, Window function**
+     * Database: MIMIC-IV
  
 * **A/B testing, Multiarmed Bandits, TBS using AIDS clinical trial**: [notebook](AB%20Testing_ABntesting_MultiarmedBandits_ThompsonBootstrap.ipynb)
     * **A/B testing**: sample size, logistic regression and assumptions testing
