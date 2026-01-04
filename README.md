@@ -158,15 +158,15 @@ New York, USA
 
 - Peer Reviewer · BMJ Digital Health & AI  
 - Published on health equity, access, HIV programs, and impact analytics.
-* Alexander K Rowe, Guilhem Labadie, Debra Jackson, Claudia Vivas-Torrealba, Jonathon Simon. Improving health worker performance: an ongoing challenge for meeting the sustainable development goals. Bmj, 2018
-* Future directions for reducing inequity and maximising impact of child health strategies. Sarah L Dalglish, Joanna J Vogel, Geneviève Begkoyian, Luis Huicho, Elizabeth Mason, Elisabeth Dowling Root, Joanna Schellenberg, Abiy Seifu Estifanos, Rajani Ved, Fernando C Wehrmeister, Guilhem Labadie, Cesar G Victora. BMJ 2018
-* Boschi-Pinto C, Labadie G, Dilip TR, et al. Global implementation survey of Integrated Management of Childhood Illness (IMCI): 20 years on. BMJ Open 2018;8:e019079. doi:10.1136/bmjopen-2017-019079
-* Mathieu Nacher, V Vantilcke, MC Parriault, A Van Melle, M Hanf, G Labadie, M Romeo, L Adriouch, G Carles, P Couppié. What is driving the HIV epidemic in French Guiana? International journal of STD & AIDS. 2010
-o	UN publications
-* Guidance for community health worker strategic information and service monitoring. UNICEF, WHO, The GLOBAL FUND, UN WOMEN, UNAIDS, STOP TB, The Rockefeller Foundation, GAVI, HDC. 2021
-* Analysing and using routine data to monitor the effects of COVID-19 on essential health services: practical guide for national and subnational decision-makers. WHO. 2021
-* Engaging young people for health and sustainable development: strategic opportunities for the World Health Organization and partners. World Health Organization. Geneva; World Health Organization; 2018-09-1
-* Integrated management of childhood illness global survey report. World Health Organization
+   * [Alexander K Rowe, Guilhem Labadie, Debra Jackson, Claudia Vivas-Torrealba, Jonathon Simon. Improving health worker performance: an ongoing challenge for meeting the sustainable development goals. Bmj, 2018](https://www.bmj.com/content/362/bmj.k2813)
+   * Future directions for reducing inequity and maximising impact of child health strategies. Sarah L Dalglish, Joanna J Vogel, Geneviève Begkoyian, Luis Huicho, Elizabeth Mason, Elisabeth Dowling Root, Joanna Schellenberg, Abiy Seifu Estifanos, Rajani Ved, Fernando C Wehrmeister, Guilhem Labadie, Cesar G Victora. BMJ 2018
+   * Boschi-Pinto C, Labadie G, Dilip TR, et al. Global implementation survey of Integrated Management of Childhood Illness (IMCI): 20 years on. BMJ Open 2018;8:e019079. doi:10.1136/bmjopen-2017-019079
+   * Mathieu Nacher, V Vantilcke, MC Parriault, A Van Melle, M Hanf, G Labadie, M Romeo, L Adriouch, G Carles, P Couppié. What is driving the HIV epidemic in French Guiana? International journal of STD & AIDS. 2010
+*	UN publications
+   * Guidance for community health worker strategic information and service monitoring. UNICEF, WHO, The GLOBAL FUND, UN WOMEN, UNAIDS, STOP TB, The Rockefeller Foundation, GAVI, HDC. 2021
+   * Analysing and using routine data to monitor the effects of COVID-19 on essential health services: practical guide for national and subnational decision-makers. WHO. 2021
+   * Engaging young people for health and sustainable development: strategic opportunities for the World Health Organization and partners. World Health Organization. Geneva; World Health Organization; 2018-09-1
+   * Integrated management of childhood illness global survey report. World Health Organization
 Publication date: 2017
 
 ---
