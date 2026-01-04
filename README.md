@@ -53,10 +53,10 @@ New York, USA
     * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet**
 
  * **UCI Heart Disease (Cleveland) dataset: binary outcome Machine Learning classifier**: [notebook](Classification.ipynb)
-    * **Logistic regression** ROC curve, confusion matrix, precision, recall, f1, learning curve, batch vs stochastic gradient descent, l1 /l2 penalty
-    * **Random Forest, AdaBoost, XGBoost** Learning curves, Feature importance / Mean Decrease in Impurity, Bootstrapping, K-fold CV, Randomized vs Grid search
-    * **Neural network: Multilayer Perceptron (MLP)** ROC curve, training loss curve, learning curve, explainability SHAP / LIME
-    * **Training time comaprison**
+    * **Logistic regression**: ROC curve, Confusion matrix, Precision, Recall, F1, Learning curve, Batch vs Stochastic gradient descent, L1 /L2 penalty
+    * **Random Forest, AdaBoost, XGBoost**: Learning curves, Feature importance / Mean Decrease in Impurity, Bootstrapping, K-fold CV, Randomized vs Grid search
+    * **Neural network: Multilayer Perceptron (MLP)**: ROC curve, Training loss curve, Learning curve, Explainability SHAP / LIME
+    * **Training time comparison**
     * Jupyter Notebook: **Python Panda Sklearn Shap Lime Matplotlib**
 
 ---
