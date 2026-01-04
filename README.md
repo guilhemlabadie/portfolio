@@ -91,7 +91,7 @@ New York, USA
 - Standardized community health worker indicators across 9 global agencies.
  <img src=https://www.healthdatacollaborative.org/fileadmin/_processed_/b/8/csm_UNICEF_NY_CHW_Guidance_Cover_EN_-_Copy_50_a5b785145e.jpg width="25%" />
 - Chaired WHO advisory group on COVID-19 impact on essential health services.
-<img src=WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf width="25%" />
+<img src=WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf](https://github.com/guilhemlabadie/example_portfolio/blob/main/WHO-2019-nCoV-essential_health_services-monitoring-2021.1-eng.pdf.jpg width="25%" />
 
 ---
 
