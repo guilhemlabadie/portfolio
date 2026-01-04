@@ -115,7 +115,7 @@ New York, USA
 
 ---
 
-## Projects
+## :seedling: Projects
 
 ### Global Immunization Data Platform Modernization · UNICEF
 
@@ -154,7 +154,7 @@ New York, USA
 
 ---
 
-## Publications & Affiliations
+## :newspaper: Publications & Affiliations
 
 - Peer Reviewer · BMJ Digital Health & AI  
 - Published on health equity, access, HIV programs, and impact analytics.
@@ -171,7 +171,7 @@ Publication date: 2017](https://www.who.int/publications/i/item/9789241512985)
 
 ---
 
-## About
+## :pushpin: About
 
 - Fluent in English, Spanish, French, German. 
 - Intermediate in Portuguese, Italian. Beginner: Japanese.  
