@@ -6,7 +6,7 @@ New York, USA
 #### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
 
 ---
-#### Portfolio Notebooks
+#### :book: Portfolio Notebooks
 * [1.MIMIC-IV_Clinical_Database_Data_Exploration](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb):
     * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
@@ -49,7 +49,7 @@ New York, USA
     * **Prophet**: long term / rolling
     * Jupyter Notebook: **Python Panda Tensorflow Keras Prophet** 
 ---
-## Education
+## :mortar_board: Education
 
 - Master of Information and Data Science (MIDS) · University of California, Berkeley · 2023
 - Executive MBA · Brown University / IE Business School · 2019
@@ -58,7 +58,7 @@ New York, USA
 
 ---
 
-## Work Experience
+## :panda_face: Work Experience
 
 ### Founder · WINDSTEPS · 2025 – Present
 
