@@ -7,7 +7,7 @@ New York, USA
 
 ---
 #### :book: Portfolio Notebooks
-* MIMIC-IV Clinical_Database Data_Exploration[Here](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb):
+* **MIMIC-IV Clinical_Database Data_Exploration** [Here](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb):
     * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
       
