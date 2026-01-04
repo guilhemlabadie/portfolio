@@ -6,7 +6,7 @@ New York, USA
 #### Technical Skills: Python, Pandas, SQL, Machine Learning, Git, AWS, Snowflake, distributed data systems, orchestration, data governance, DHIS2, Tableau, Power BI, Illustrator
 
 ---
-#### :book: Portfolio Notebooks
+### :book: Portfolio Notebooks
 * **Data Exploration of MIMIC-IV Clinical Database**: [notebook](1.MIMIC-IV_Clinical_Database_Data_Exploration.ipynb)
     * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
