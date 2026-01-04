@@ -11,7 +11,7 @@ New York, USA
     * **Data exploration** of the MIMIC IV  Medical Information Mart for Intensive Care (MIMIC)-IV database
     * Jupyter Notebook: **Python Panda Matplotlib Seaborn**
       
-* [2.MIMIC-IV_Clinical_Database_Causal_Inference](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
+* **Causal Inference using MIMIC-IV Clinical Database**: [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
          * **Linear regression**
          * Linear regression **assumptions tests + Cook's distance**
