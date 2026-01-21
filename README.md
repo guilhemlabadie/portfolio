@@ -6,7 +6,7 @@
          * **Conditional looping**
          * **Graph visualization**
          * **OpenAI API**
-     * Jupyter Notebook: **LangGraph Pydantic OpenAI **
+     * Jupyter Notebook: **LangGraph Pydantic OpenAI**
     
 * **Causal Inference** [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
