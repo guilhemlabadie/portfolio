@@ -1,4 +1,12 @@
 ### :book: Portfolio Notebooks
+
+* **LangGraph: Multi-Agent Emergency Department Decision Aid** [notebook](langgraph1.ipynb)
+     * Multi-Agent Emergency Department Decision Aid 
+         * **4 agents: 3 professional agents (MD, nurse, social worker) + coordinator**
+         * **Conditional looping**
+         * **Graph visualization**
+         * **OpenAI API**
+     * Jupyter Notebook: **LangGraph Pydantic OpenAI **
     
 * **Causal Inference** [notebook](2.MIMIC-IV_Clinical_Database_Causal_Inference.ipynb)
      * Review of illustrative examples of causal inference 
